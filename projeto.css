@@ -1,0 +1,61 @@
+
+body{
+    background-color: black;
+    color: white;
+
+}
+
+.title{
+    justify-content: center;
+    text-align: center;
+    
+}
+article{
+    display: flex;
+    text-align: center;
+    justify-content: center;
+}
+button{
+    background-color: rgb(170, 0, 0);
+    border-radius: 10px;
+    height: 10%;
+    width: 40%;
+}
+.tudo{
+    display: flex;
+    background-color: white;
+}
+li{
+    list-style-type: none;
+}
+span{
+    color: rgb(3, 3, 95);
+}
+.oi{
+    background-color: black;
+    color: white;
+}
+.oi h1{
+    text-align: center;
+}
+.pt h1{
+    text-align: center;
+}
+.tim h1{
+    text-align: center;
+}
+.rodape{
+    background-color: white;
+    text-align: center;
+    color: rgb(2, 2, 104);
+}
+header{
+    margin: 10px;
+    padding: 10px;
+    text-align: center;
+}
+header img{
+    width: 50%;
+    height: 50%;
+}
+    
